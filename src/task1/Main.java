@@ -10,9 +10,10 @@ public class Main {
 
             Point point2 = new Point(1,1);
             point1.distance(point2);
-            System.out.println(point1.distance());
+
+            System.out.println("distance()"+point1.distance());
             System.out.println(" ");
-            System.out.println( point1.distance(point2));
+            System.out.println("distance(Point secondPoint)"+ point1.distance(point2));
 
         }
 }
