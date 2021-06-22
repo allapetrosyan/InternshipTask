@@ -1,3 +1,5 @@
+package task2;
+
 public class Movie extends Cinema {
 
     public Movie(String title, int rating) {

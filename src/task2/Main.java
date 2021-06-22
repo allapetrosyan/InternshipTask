@@ -1,4 +1,5 @@
-import javax.management.ObjectInstance;
+package task2;
+
 import java.util.*;
 
 public class Main {

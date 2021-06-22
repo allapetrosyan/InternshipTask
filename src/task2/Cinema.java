@@ -1,3 +1,5 @@
+package task2;
+
 public class Cinema {
     protected String title;
     protected int rating;
